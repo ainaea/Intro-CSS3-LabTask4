@@ -1,1 +1,39 @@
-/* All styles to be written here... */
+body{
+    border: 15px blue solid;
+    
+    }
+
+section h2{color: brown;
+    }
+
+
+section h2:hover{color: rgb(235, 16, 16);
+            }
+
+ section section p{
+     color: red;
+     background-color: yellow;
+ } 
+ 
+ section section p:hover{
+    color: rgb(46, 10, 129);
+    background-color: rgb(125, 115, 185);
+}
+
+ section article {
+     background-color: burlywood;
+     color: orangered;
+ }
+
+ section article:hover {
+    background-color: yellowgreen;
+    color: rgb(199, 10, 10);
+}
+
+ section footer:hover {
+     color: cyan;
+ }
+
+ section footer h4:hover {
+    color: #345;
+}
