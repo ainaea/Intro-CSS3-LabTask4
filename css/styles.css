@@ -20,7 +20,7 @@ section h1:hover{color: rgb(235, 16, 16);
  
  section section p:hover{
     color: rgb(46, 10, 129);
-    background-color: rgb(125, 115, 185);
+    background-color: rgb(209, 30, 30);
 }
 
  section article {
@@ -30,8 +30,8 @@ section h1:hover{color: rgb(235, 16, 16);
  }
 
  section article:hover {
-    background-color: yellowgreen;
-    color: rgb(199, 10, 10);
+    background-color: rgb(250, 199, 29);
+    color: rgba(0, 4, 32, 0.308);
 }
 
  section footer:hover {
@@ -54,4 +54,4 @@ img:hover{
     border: 10px red dotted;
 }
 
-p, h3, span{padding: 20px;}
+p, h2, span{padding: 20px;}
