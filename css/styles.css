@@ -1,6 +1,7 @@
 body{
     border: 15px blue solid;
-    
+    margin: 5px;
+    padding: 15px;
     }
 
 section h2{color: brown;
@@ -14,6 +15,10 @@ section h2:hover{color: rgb(235, 16, 16);
      color: red;
      background-color: yellow;
  } 
+
+ section{
+     margin: ;
+ }
  
  section section p:hover{
     color: rgb(46, 10, 129);
@@ -37,3 +42,13 @@ section h2:hover{color: rgb(235, 16, 16);
  section footer h4:hover {
     color: #345;
 }
+
+img{
+    width: 20%;
+}
+
+img:hover{
+    border: 10px red dotted;
+}
+
+p, h3, span{padding: 20px;}
