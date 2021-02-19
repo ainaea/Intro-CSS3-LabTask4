@@ -4,21 +4,19 @@ body{
     padding: 15px;
     }
 
-section h2{color: brown;
+section h1{color: brown;
+    text-align: center;
     }
 
 
-section h2:hover{color: rgb(235, 16, 16);
+section h1:hover{color: rgb(235, 16, 16);
             }
 
  section section p{
      color: red;
      background-color: yellow;
+     margin-bottom: -10px;
  } 
-
- section{
-     margin: ;
- }
  
  section section p:hover{
     color: rgb(46, 10, 129);
@@ -28,6 +26,7 @@ section h2:hover{color: rgb(235, 16, 16);
  section article {
      background-color: burlywood;
      color: orangered;
+     margin-top: -20px;
  }
 
  section article:hover {
@@ -41,6 +40,10 @@ section h2:hover{color: rgb(235, 16, 16);
 
  section footer h4:hover {
     color: #345;
+}
+
+section footer p {
+    padding: 0px;
 }
 
 img{
